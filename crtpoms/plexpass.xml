@@ -51,6 +51,9 @@
     </Volume>
   </Data>
   <WebUI>http://[IP]:[PORT:32400]/web/index.html</WebUI>
-  <Icon>https://raw.githubusercontent.com/binhex/docker-templates/master/binhex/images/plex-icon.png</Icon>
+  <Icon>https://raw.githubusercontent.com/crtpoms/docker-templates/master/crtpoms/images/plex-icon.png</Icon>
+  <DonateText></DonateText>
+  <DonateLink></DonateLink>
+  <DonateImg></DonateImg>
   <ExtraParams></ExtraParams>
 </Containers>
