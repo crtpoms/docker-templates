@@ -51,6 +51,6 @@
     </Volume>
   </Data>
   <WebUI>http://[IP]:[PORT:32400]/web/index.html</WebUI>
-  <Icon>https://github.com/crtpoms/docker-templates/blob/master/crtpoms/images/plex-icon.png</Icon>
+  <Icon>https://github.com/crtpoms/docker-templates/raw/master/crtpoms/images/plex-icon.png</Icon>
   <ExtraParams></ExtraParams>
 </Containers>
